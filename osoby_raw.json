@@ -1,0 +1,450 @@
+[
+ {
+  "k": "Bechyně Jan",
+  "n": 397,
+  "meetings": 24,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Bureš Jan",
+  "n": 394,
+  "meetings": 24,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Filip Karel",
+  "n": 385,
+  "meetings": 24,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Bouček Jiří",
+  "n": 378,
+  "meetings": 23,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Bünter Michal",
+  "n": 373,
+  "meetings": 22,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Polívka Štěpán",
+  "n": 371,
+  "meetings": 23,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Burešová Alena",
+  "n": 370,
+  "meetings": 23,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Vaic Pavel",
+  "n": 363,
+  "meetings": 22,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Brabec David",
+  "n": 345,
+  "meetings": 21,
+  "first": "2022-10-19",
+  "last": "2026-06-18"
+ },
+ {
+  "k": "Novák Pavel",
+  "n": 345,
+  "meetings": 21,
+  "first": "2022-12-15",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Kozel Vladimír",
+  "n": 343,
+  "meetings": 21,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Adelt Pavel",
+  "n": 338,
+  "meetings": 21,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Šnobl Karel",
+  "n": 327,
+  "meetings": 20,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Hubáček David",
+  "n": 327,
+  "meetings": 22,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Černý Kamil",
+  "n": 326,
+  "meetings": 19,
+  "first": "2022-10-19",
+  "last": "2026-04-23"
+ },
+ {
+  "k": "Vosátková Libuše",
+  "n": 314,
+  "meetings": 20,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Vondra Martin",
+  "n": 307,
+  "meetings": 19,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Jurgovski Jiří",
+  "n": 285,
+  "meetings": 19,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Verner Jiří",
+  "n": 276,
+  "meetings": 18,
+  "first": "2022-10-19",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Doležal Zdeněk",
+  "n": 240,
+  "meetings": 16,
+  "first": "2023-04-27",
+  "last": "2026-06-18"
+ },
+ {
+  "k": "Janouš Petr",
+  "n": 224,
+  "meetings": 15,
+  "first": "2023-12-14",
+  "last": "2026-09-17"
+ },
+ {
+  "k": "Lopour Radek",
+  "n": 133,
+  "meetings": 7,
+  "first": "2022-10-19",
+  "last": "2023-11-09"
+ },
+ {
+  "k": "Kleindienst Jiří Jurgovski Jan",
+  "n": 30,
+  "meetings": 2,
+  "first": "2022-10-19",
+  "last": "2023-03-02"
+ },
+ {
+  "k": "Kleindienst David Hubáček Jan",
+  "n": 24,
+  "meetings": 2,
+  "first": "2022-10-19",
+  "last": "2022-12-15"
+ },
+ {
+  "k": "Kleindienst Karel Filip Jan",
+  "n": 9,
+  "meetings": 1,
+  "first": "2022-12-15",
+  "last": "2022-12-15"
+ },
+ {
+  "k": "Kleindienst Jan",
+  "n": 2,
+  "meetings": 2,
+  "first": "2022-10-19",
+  "last": "2022-12-15"
+ },
+ {
+  "k": "Burešová červen Alena",
+  "n": 2,
+  "meetings": 1,
+  "first": "2023-06-22",
+  "last": "2023-06-22"
+ },
+ {
+  "k": "Polívka Pavel Novák Štěpán",
+  "n": 1,
+  "meetings": 1,
+  "first": "2022-12-15",
+  "last": "2022-12-15"
+ },
+ {
+  "k": "Kleindienst Alena Burešová Jan",
+  "n": 1,
+  "meetings": 1,
+  "first": "2023-03-02",
+  "last": "2023-03-02"
+ },
+ {
+  "k": "Polívka červen Štěpán",
+  "n": 1,
+  "meetings": 1,
+  "first": "2023-06-22",
+  "last": "2023-06-22"
+ },
+ {
+  "k": "členům Libuše Vosátková Poté Davida Hubáčka U í č Zastupitelstvo I á á",
+  "n": 1,
+  "meetings": 1,
+  "first": "2023-12-14",
+  "last": "2023-12-14"
+ },
+ {
+  "k": "člen č",
+  "n": 1,
+  "meetings": 1,
+  "first": "2023-12-14",
+  "last": "2023-12-14"
+ },
+ {
+  "k": "člen Kč",
+  "n": 1,
+  "meetings": 1,
+  "first": "2023-12-14",
+  "last": "2023-12-14"
+ },
+ {
+  "k": "II Kč",
+  "n": 1,
+  "meetings": 1,
+  "first": "2023-12-14",
+  "last": "2023-12-14"
+ },
+ {
+  "k": "členů Kč Pro",
+  "n": 1,
+  "meetings": 1,
+  "first": "2023-12-14",
+  "last": "2023-12-14"
+ },
+ {
+  "k": "Návrh členů",
+  "n": 1,
+  "meetings": 1,
+  "first": "2023-12-14",
+  "last": "2023-12-14"
+ },
+ {
+  "k": "Filip února Karel",
+  "n": 1,
+  "meetings": 1,
+  "first": "2024-02-29",
+  "last": "2024-02-29"
+ },
+ {
+  "k": "Hubáček června David",
+  "n": 1,
+  "meetings": 1,
+  "first": "2024-06-20",
+  "last": "2024-06-20"
+ },
+ {
+  "k": "Burešová Slavnostním MěÚ Alena",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Burešová Kč Alena",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Hubáček Kč David",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Polívka ři Kč",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Novák Pavel Pro část částka",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "D Téma",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "účast E",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Vosátková činnost Libuše",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Hubáček David IV FINANCOVÁNÍ",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "č Rozpočtové",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "členů Pro",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Doležal Poté Zdeněk",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "č U í",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Vaic Jedná",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Filip Sankce Pokud Karel",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Strašecí Sociálního Nové",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Vosátková Text Libuše",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Burešová Pavel Novák Alena",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Novák Pavel Výbor školství úpravu č",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "číslo úkol",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "LIDL Pavel Novák",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Janouš LIDLu Je Petr",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Verner špatný Jiří",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "říkali Promotéři",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Štiller- Libuše Michal",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-04-24",
+  "last": "2025-04-24"
+ },
+ {
+  "k": "Jurgovski června Jiří",
+  "n": 1,
+  "meetings": 1,
+  "first": "2025-06-19",
+  "last": "2025-06-19"
+ }
+]

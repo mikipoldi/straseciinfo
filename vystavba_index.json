@@ -1,0 +1,3524 @@
+{
+ "stats": {
+  "Filip Karel": {
+   "k": "Filip Karel",
+   "jm": "Karel",
+   "pr": "Filip",
+   "disp": "Mgr. Karel Filip",
+   "klub": "Naše město",
+   "rada": "starosta",
+   "body": -6,
+   "ucast": 15,
+   "protiVystavbe": 4,
+   "proVystavbe": 10,
+   "zdrzel": 1,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.4
+  },
+  "Šnobl Karel": {
+   "k": "Šnobl Karel",
+   "jm": "Karel",
+   "pr": "Šnobl",
+   "disp": "Bc. Karel Šnobl",
+   "klub": "Naše město",
+   "rada": "člen rady",
+   "body": -3,
+   "ucast": 9,
+   "protiVystavbe": 3,
+   "proVystavbe": 6,
+   "zdrzel": 0,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PROTI (brzdy)",
+     "pts": -1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.33
+  },
+  "Vondra Martin": {
+   "k": "Vondra Martin",
+   "jm": "Martin",
+   "pr": "Vondra",
+   "disp": "Ing. Martin Vondra, MBA, LL.M.",
+   "klub": "Naše město",
+   "rada": "člen rady",
+   "body": -2.5,
+   "ucast": 12,
+   "protiVystavbe": 4,
+   "proVystavbe": 7,
+   "zdrzel": 1,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.21
+  },
+  "Kozel Vladimír": {
+   "k": "Kozel Vladimír",
+   "jm": "Vladimír",
+   "pr": "Kozel",
+   "disp": "Vladimír Kozel",
+   "klub": "Naše město",
+   "rada": null,
+   "body": -5,
+   "ucast": 12,
+   "protiVystavbe": 3,
+   "proVystavbe": 8,
+   "zdrzel": 1,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.42
+  },
+  "Polívka Štěpán": {
+   "k": "Polívka Štěpán",
+   "jm": "Štěpán",
+   "pr": "Polívka",
+   "disp": "Bc. Štěpán Polívka",
+   "klub": "Naše město",
+   "rada": null,
+   "body": -7,
+   "ucast": 15,
+   "protiVystavbe": 4,
+   "proVystavbe": 11,
+   "zdrzel": 0,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PROTI (brzdy)",
+     "pts": -1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.47
+  },
+  "Jurgovski Jiří": {
+   "k": "Jurgovski Jiří",
+   "jm": "Jiří",
+   "pr": "Jurgovski",
+   "disp": "Ing. Jiří Jurgovski",
+   "klub": "Naše město",
+   "rada": null,
+   "body": -4,
+   "ucast": 11,
+   "protiVystavbe": 3,
+   "proVystavbe": 7,
+   "zdrzel": 1,
+   "detail": [
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.36
+  },
+  "Bureš Jan": {
+   "k": "Bureš Jan",
+   "jm": "Jan",
+   "pr": "Bureš",
+   "disp": "Ing. Jan Bureš",
+   "klub": "MPR-RPM",
+   "rada": "místostarosta",
+   "body": -7,
+   "ucast": 15,
+   "protiVystavbe": 3,
+   "proVystavbe": 10,
+   "zdrzel": 2,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.47
+  },
+  "Bechyně Jan": {
+   "k": "Bechyně Jan",
+   "jm": "Jan",
+   "pr": "Bechyně",
+   "disp": "Ing. Jan Bechyně",
+   "klub": "MPR-RPM",
+   "rada": "člen rady",
+   "body": -6,
+   "ucast": 14,
+   "protiVystavbe": 4,
+   "proVystavbe": 10,
+   "zdrzel": 0,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.43
+  },
+  "Vosátková Libuše": {
+   "k": "Vosátková Libuše",
+   "jm": "Libuše",
+   "pr": "Vosátková",
+   "disp": "RNDr. Libuše Vosátková",
+   "klub": "MPR-RPM",
+   "rada": null,
+   "body": -2,
+   "ucast": 8,
+   "protiVystavbe": 3,
+   "proVystavbe": 5,
+   "zdrzel": 0,
+   "detail": [
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.25
+  },
+  "Kleindienst Jan": {
+   "k": "Kleindienst Jan",
+   "jm": "Jan",
+   "pr": "Kleindienst",
+   "disp": "Dr. Ing. Jan Kleindienst",
+   "klub": "MPR-RPM",
+   "rada": null,
+   "do": "2023-04-03",
+   "body": 0,
+   "ucast": 2,
+   "protiVystavbe": 1,
+   "proVystavbe": 1,
+   "zdrzel": 0,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    }
+   ],
+   "index": 0
+  },
+  "Doležal Zdeněk": {
+   "k": "Doležal Zdeněk",
+   "jm": "Zdeněk",
+   "pr": "Doležal",
+   "disp": "prof. RNDr. Zdeněk Doležal, Dr.",
+   "klub": "MPR-RPM",
+   "rada": null,
+   "od": "2023-04-04",
+   "body": -5.5,
+   "ucast": 12,
+   "protiVystavbe": 2,
+   "proVystavbe": 8,
+   "zdrzel": 2,
+   "detail": [
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    }
+   ],
+   "index": -0.46
+  },
+  "Bünter Michal": {
+   "k": "Bünter Michal",
+   "jm": "Michal",
+   "pr": "Bünter",
+   "disp": "Michal Bünter",
+   "klub": "NEZÁVISLÍ 2018",
+   "rada": "místostarosta",
+   "body": -4.5,
+   "ucast": 15,
+   "protiVystavbe": 4,
+   "proVystavbe": 9,
+   "zdrzel": 2,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.3
+  },
+  "Brabec David": {
+   "k": "Brabec David",
+   "jm": "David",
+   "pr": "Brabec",
+   "disp": "David Brabec",
+   "klub": "NEZÁVISLÍ 2018",
+   "rada": "člen rady",
+   "body": -3,
+   "ucast": 14,
+   "protiVystavbe": 4,
+   "proVystavbe": 8,
+   "zdrzel": 2,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    }
+   ],
+   "index": -0.21
+  },
+  "Bouček Jiří": {
+   "k": "Bouček Jiří",
+   "jm": "Jiří",
+   "pr": "Bouček",
+   "disp": "Mgr. Jiří Bouček",
+   "klub": "NEZÁVISLÍ 2018",
+   "rada": null,
+   "body": -2.5,
+   "ucast": 14,
+   "protiVystavbe": 5,
+   "proVystavbe": 8,
+   "zdrzel": 1,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.18
+  },
+  "Adelt Pavel": {
+   "k": "Adelt Pavel",
+   "jm": "Pavel",
+   "pr": "Adelt",
+   "disp": "Ing. Pavel Adelt, MBA",
+   "klub": "Společně+STAN",
+   "rada": null,
+   "body": 3.5,
+   "ucast": 10,
+   "protiVystavbe": 6,
+   "proVystavbe": 3,
+   "zdrzel": 1,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PROTI",
+     "pts": 1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": 0.35
+  },
+  "Burešová Alena": {
+   "k": "Burešová Alena",
+   "jm": "Alena",
+   "pr": "Burešová",
+   "disp": "Ing. Alena Burešová",
+   "klub": "Společně+STAN",
+   "rada": null,
+   "body": 1,
+   "ucast": 15,
+   "protiVystavbe": 5,
+   "proVystavbe": 6,
+   "zdrzel": 4,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": 0.07
+  },
+  "Novák Pavel": {
+   "k": "Novák Pavel",
+   "jm": "Pavel",
+   "pr": "Novák",
+   "disp": "Bc. Pavel Novák",
+   "klub": "Společně+STAN",
+   "rada": null,
+   "body": 2.5,
+   "ucast": 14,
+   "protiVystavbe": 6,
+   "proVystavbe": 5,
+   "zdrzel": 3,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PROTI",
+     "pts": 1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": 0.18
+  },
+  "Verner Jiří": {
+   "k": "Verner Jiří",
+   "jm": "Jiří",
+   "pr": "Verner",
+   "disp": "Mgr. Jiří Verner",
+   "klub": "Společně+STAN",
+   "rada": null,
+   "body": 0.5,
+   "ucast": 12,
+   "protiVystavbe": 4,
+   "proVystavbe": 5,
+   "zdrzel": 3,
+   "detail": [
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": 0.04
+  },
+  "Černý Kamil": {
+   "k": "Černý Kamil",
+   "jm": "Kamil",
+   "pr": "Černý",
+   "disp": "Bc. Kamil Černý",
+   "klub": "Společně+STAN",
+   "rada": null,
+   "body": 1.5,
+   "ucast": 11,
+   "protiVystavbe": 4,
+   "proVystavbe": 4,
+   "zdrzel": 3,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "PROTI",
+     "pts": 1,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    }
+   ],
+   "index": 0.14
+  },
+  "Lopour Radek": {
+   "k": "Lopour Radek",
+   "jm": "Radek",
+   "pr": "Lopour",
+   "disp": "p. Radek Lopour",
+   "klub": "Společně+STAN",
+   "rada": null,
+   "do": "2023-11-27",
+   "body": 0.5,
+   "ucast": 7,
+   "protiVystavbe": 1,
+   "proVystavbe": 2,
+   "zdrzel": 4,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    }
+   ],
+   "index": 0.07
+  },
+  "Janouš Petr": {
+   "k": "Janouš Petr",
+   "jm": "Petr",
+   "pr": "Janouš",
+   "disp": "Mgr. Petr Janouš",
+   "klub": "Společně+STAN",
+   "rada": null,
+   "od": "2023-11-28",
+   "body": 1.5,
+   "ucast": 8,
+   "protiVystavbe": 2,
+   "proVystavbe": 2,
+   "zdrzel": 4,
+   "detail": [
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": 0.19
+  },
+  "Hubáček David": {
+   "k": "Hubáček David",
+   "jm": "David",
+   "pr": "Hubáček",
+   "disp": "Ing. et Ing. David Hubáček",
+   "klub": "ODS",
+   "rada": null,
+   "body": -0.5,
+   "ucast": 10,
+   "protiVystavbe": 3,
+   "proVystavbe": 4,
+   "zdrzel": 3,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": -0.05
+  },
+  "Vaic Pavel": {
+   "k": "Vaic Pavel",
+   "jm": "Pavel",
+   "pr": "Vaic",
+   "disp": "Ing. Pavel Vaic",
+   "klub": "ODS",
+   "rada": null,
+   "body": 0.5,
+   "ucast": 15,
+   "protiVystavbe": 3,
+   "proVystavbe": 5,
+   "zdrzel": 7,
+   "detail": [
+    {
+     "id": "rgalpha-1",
+     "date": "2022-12-15",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "lidl",
+     "date": "2022-12-15",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "LIDL Česká republika v.o.s."
+    },
+    {
+     "id": "rgalpha-2",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "RG ALPHA a.s."
+    },
+    {
+     "id": "hliniste",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý stavebník"
+    },
+    {
+     "id": "loskot-dod3a",
+     "date": "2023-06-22",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "loskot-dod3b",
+     "date": "2023-06-22",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "z36-verejne",
+     "date": "2023-04-27",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "Z36 Čelechovická"
+    },
+    {
+     "id": "odpocivka",
+     "date": "2024-11-14",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "ŘSD"
+    },
+    {
+     "id": "up5a",
+     "date": "2025-03-06",
+     "how": "zdržel se",
+     "pts": 0.5,
+     "pol": "pro-vystavbe",
+     "dev": "—"
+    },
+    {
+     "id": "pecinov",
+     "date": "2025-03-06",
+     "how": "PRO (brzda)",
+     "pts": 1,
+     "pol": "proti-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "zzn-byty",
+     "date": "2025-03-06",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "Loskot / Bradáč"
+    },
+    {
+     "id": "deco-a",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "deco-b",
+     "date": "2025-04-24",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "DECO TRADE s.r.o."
+    },
+    {
+     "id": "up2792",
+     "date": "2025-06-19",
+     "how": "PRO",
+     "pts": -1,
+     "pol": "pro-vystavbe",
+     "dev": "soukromý žadatel"
+    },
+    {
+     "id": "z36-neschv",
+     "date": "2026-09-17",
+     "how": "zdržel se",
+     "pts": 0,
+     "pol": "proti-vystavbe",
+     "dev": "Auri / Loskot"
+    }
+   ],
+   "index": 0.03
+  }
+ },
+ "key": [
+  {
+   "id": "rgalpha-1",
+   "date": "2022-12-15",
+   "vi": 9,
+   "pol": "pro-vystavbe",
+   "label": "RG ALPHA a.s. – smlouva o infrastruktuře, „Technologický park D6“ (NEPŘIJATO 10-3-5)",
+   "dev": "RG ALPHA a.s.",
+   "v": {
+    "i": 9,
+    "pos": 37711,
+    "pro": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Kleindienst Jan",
+     "Bünter Michal",
+     "Bouček Jiří"
+    ],
+    "proti": [
+     "Adelt Pavel",
+     "Novák Pavel",
+     "Černý Kamil"
+    ],
+    "zdrzel": [
+     "Brabec David",
+     "Burešová Alena",
+     "Lopour Radek",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 10,
+     "proti": 3,
+     "zdrzel": 5,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "stavit je výstavba té haly. Domnívám se, že toto prohlášení nemůže být platné, protože i kdybychom toto usnesení a smlouvu odsouhlasili, tak si myslím, že tento záměr na půdě zastupitelstva nemá takovou váhu. Rozhodně by měl mít váhu ve formě nějakého referenda, protože nevím, že by občané byli seznámeni s detaily, jak hala bude velká, jaký bude provoz se všemi dopady. Troufám si tvrdit, že toto prohlášení činí smlouvu neplatnou. Myslím si, že pokud bychom to odsouhlasili, dopouští se město prokázaného omylu a právně vzato by to vedlo k možnému zneplatnění smlouvy.“ JUDr. Jiří Tláskal – tajemník MěÚ, Ing. Pavel Adelt, MBA požádal o uvedení svého příspěvku do zápisu: „Pokud je to tak, tak si myslím, že územní plán platí a není potřeba ho zesilovat, nebo znovu opakovat v té smlouvě. Jak říkám, pokud by se to týkalo územního plánu, tak to tam být opravdu nemusí. Nevím, proč by se to mělo týkat územního plánu, toto se týká stavebního záměru, kterým je ta hala. To jsou dvě odlišné věci. A jak říkám, záměr města, tudíž občanů, troufám si tvrdit, že není výstavba takto velké haly s možnými negativními dopady. Již jsem proti tomu byl a nejsem toho stále příznivcem, že takto velká hala v tomto území by měla být.“ Bc. Pavel Novák, Bc. Kamil Černý, p. Radek Lopour, Ing. Alena Burešová, Ing. Pavel Vaic, Dr. Ing. Jan Kleindienst. Z přítomných občanů: p. Lafek – RG ALPHA, Mgr. Štiller. Poté bylo hlasováno o návrhu na usnesení: U s n e s e n í č. Zastupitelstvo města I. s c h v a l u j e smlouvu („O VYBUDOVÁNÍ NOVÉ NEBO ÚPRAVĚ STÁVAJÍCÍ VEŘEJNÉ DOPRAVNÍ NEBO TECHNICKÉ INFRASTRUKTURY“) mezi Městem Nové Strašecí na straně jedné, a stavebníkem spol. RG ALPHA a.s., IČO: 090 42 784, se sídlem Na Nivách 956/2, 141 00 Praha 4 – Michle, na straně druhé, stanovující práva a povinnosti účastníků při výstavbě veřejné infrastruktury pro záměr stavby „Průmyslová hala D6 EXIT 32“, v rozsahu: - závazek Společnosti vybudovat v rámci realizace Stavebního záměru na pozemku p.č. 1104/89 vodovodní řad a kanalizační stoku, které budou dostatečně dimenzovány alespoň v rozsahu nezbytném pro možné budoucí připojení dalších nemovitých věcí v průmyslové zóně Nové Strašecí v ulicích K Dálnici a Průmyslová [vodovodní řad PE d110 délky 98,1m, jednotná kanalizační stoka DN300 délky 94,2 m]. Text smlouvy je přílohou tohoto usnesení. II. u k l á d á starostovi města příslušnou smlouvu podepsat. Pro toto usnesení hlasovalo 10 členů zastupitelstva města, 3 členové hlasovali proti a 5 členů se zdrželo hlasování. Návrh nebyl přijat. "
+   },
+   "num": 1,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-1-zasedani-zastupitelstva-mesta-ze-dne-15122022-5033cs.html",
+   "valid": true
+  },
+  {
+   "id": "lidl",
+   "date": "2022-12-15",
+   "vi": 16,
+   "pol": "proti-vystavbe",
+   "label": "LIDL ČR – ZM rozhodlo NEPOŘÍDIT změnu ÚP pro obchodní centrum",
+   "dev": "LIDL Česká republika v.o.s.",
+   "v": {
+    "i": 16,
+    "pos": 62445,
+    "pro": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Bechyně Jan",
+     "Kleindienst Jan",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Adelt Pavel",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Černý Kamil"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Bureš Jan",
+     "Lopour Radek",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 14,
+     "proti": 0,
+     "zdrzel": 4,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "dne 28. 4. 2022 vydalo opatřením obecné povahy č. 1/2022 Změnu č. 3 územního plánu Nové Strašecí, jejíchž předmětem byla změna využití tzv. Severozápadní průmyslové zóny (Z95 a Z111) z funkčního využití VL-N – plochy výroby a skladování – lehký průmysl, na nový účel užívání NSp-N – plochy smíšené nezastavěného území přírodní. V době doručení žádosti spol. LIDL Česká republika, tak již panující stav předmětného území nebylo funkční využití VL-N – plochy výroby a skladování, ale dle Změny č. 3 Územního plánu Nové Strašecí funkční využití NSp-N – plochy smíšené nezastavěného území přírodní. Pro chybějící kladné projednání žádosti spol. LIDL Česká republika, v. o. s., ve výboru pro strategický rozvoj nebyl žadatel vyzýván k opravě či změně své žádosti – nápravě zřejmé nesprávnosti v konstatování platného funkčního využití dotčené plochy ke dni podání žádosti. Změna č. 3 Územního plánu Nové Strašecí byla pořízena na základě výsledků referenda o využití bývalé tzv. Severozápadní průmyslové zóny. Rada města projednala návrh spol. LIDL Česká republika, v. o. s., na svém zasedání dne 28. 11. 2022 a usnesením č. 44 doporučila Zastupitelstvu města rozhodnout změnu územního plánu dle návrhu spol. LIDL Česká republika, v. o. s., nepořídit. Do rozpravy se zapojili: Ing. Pavel Vaic, Ing. Martin Vondra, MBA, p. Michal Bünter, Bc. Kamil Černý, Ing. et Ing. David Hubáček, Ing. Jan Bureš – 1.místostarosta města, Bc. Pavel Novák, Ing. Alena Burešová. Z přítomných občanů – p. Mičánek – spol. Lidl, Mgr. Janouš. Po projednání rada města přijala U s n e s e n í č. 18 Zastupitelstvo města r o z h o d u j e nepořídit Změnu územního plánu Nové Strašecí dle návrhu spol. LIDL Česká republika, v. o. s., Nárožní 1359/11, 158 00 Praha, IČ: 26178541, na změnu Územního plánu Nové Strašecí: - Změna funkčního využití pozemků z plochy VL-N – plochy výroby a skladování (stav) / Z111/ na plochu OV-S – plocha občanského vybavení (plocha přestavby), kde by byla umožněna celková prodejní plochy cca 1500 m2 z důvodu záměru výstavby prodejny potravin o zastavěné ploše cca 2500 m2 /Aktuální panující platný stav předmětného území není funkční využití VL-N – plochy výroby a skladování, ale dle Změny č. 3 Územního plánu Nové Strašecí funkční využití NSp-N – plochy smíšené nezastavěného území přírodní./ Pro toto usnesení hlasovalo 14 členů zastupitelstva města, 4 členové se zdrželi hlasování. "
+   },
+   "num": 1,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-1-zasedani-zastupitelstva-mesta-ze-dne-15122022-5033cs.html",
+   "valid": true
+  },
+  {
+   "id": "rgalpha-2",
+   "date": "2023-06-22",
+   "vi": 13,
+   "pol": "pro-vystavbe",
+   "label": "RG ALPHA a.s. – smlouva o infrastruktuře, „Technologický park D6“ (opakovaně, PŘIJATO 11-0-6)",
+   "dev": "RG ALPHA a.s.",
+   "v": {
+    "i": 13,
+    "pos": 59557,
+    "pro": [
+     "Filip Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Černý Kamil",
+     "Lopour Radek",
+     "Vaic Pavel"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 11,
+     "proti": 0,
+     "zdrzel": 6,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "ní a kanalizační řad do vlastnictví Města, ačkoli získal k realizaci stavebního záměru veškerá nezbytná souhlasná rozhodnutí, zavazuje se uhradit Městu smluvní pokutu ve výši 500.000,- Kč. Smlouvu schvaluje Zastupitelstvo města. Rada města projednala smlouvu („O VYBUDOVÁNÍ NOVÉ NEBO ÚPRAVĚ STÁVAJÍCÍ VEŘEJNÉ DOPRAVNÍ NEBO TECHNICKÉ INFRASTRUKTURY“) na svém zasedání dne 12. 6. 2023 a usnesením č. 288 doporučila Zastupitelstvu města předmětnou smlouvu schválit. Do rozpravy se zapojili: Bc. Pavel Novák, p. Radek Lopour, Ing. Jan Bureš – 1.místostarosta města, Ing. Alena Burešová, Ing. Pavel Vaic, Mgr. Jiří Verner, Ing. Jan Bechyně, Ing. Martin Vondra, MBA, p. David Brabec, Bc. Kamil Černý, Ing. Marie Králová – vedoucí OV, JUDr. Jiří Tláskal – tajemník MěÚ. Z přítomných občanů: Ing. Michal Štiller, Mgr. Ing. Rudolf Loskot, LL.M.MBA, Ing. Hana Brinkeová, Ph.D., pí Žaneta Trochymčuk, zástupce RG ALPHA, p. Křeček, pí Rosenkranzová, p. Řezáč. Poté zastupitelstvo města přijalo U s n e s e n í č. 62 Zastupitelstvo města I. s c h v a l u j e smlouvu („O VYBUDOVÁNÍ NOVÉ NEBO ÚPRAVĚ STÁVAJÍCÍ VEŘEJNÉ DOPRAVNÍ NEBO TECHNICKÉ INFRASTRUKTURY“) mezi Městem Nové Strašecí na straně jedné, a stavebníkem spol. RG ALPHA a.s., IČO: 090 42 784, se sídlem Na Nivách 956/2, 141 00 Praha 4 – Michle, na straně druhé, stanovující práva a povinnosti účastníků při výstavbě veřejné infrastruktury pro záměr stavby „Technologický park D6“, v rozsahu: - Závazek Společnosti vybudovat v rámci realizace stavebního záměru na pozemku p.č. 1104/89 vodovodní řad a kanalizační stoku, které budou dostatečně dimenzovány alespoň v rozsahu nezbytném pro možné budoucí připojení dalších nemovitých věcí v průmyslové zóně Nové Strašecí v ulicích K Dálnici a Průmyslová [vodovodní řad PE d110 délky 98,1m, jednotná kanalizační stoka DN300 délky 94,2 m]. - Součástí stavebního záměru Společnosti je dále vybudování prodloužení plynovodu „Řad P1“ d 90x5,4 mm PE 100 RC dl. 109,50 m. Předmětem Smlouvy není závazek Společnosti převést tento plynovod na město. Vybudovaný plynovod bude vypořádán s příslušným provozovatelem veřejné plynovodní sítě. Text smlouvy je přílohou tohoto usnesení. II. u k l á d á starostovi města příslušnou smlouvu podepsat. Pro toto usnesení hlasovalo 11 členů zastupitelstva města, 6 členů se zdrželo hlasování. "
+   },
+   "num": null,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-ze-4-zastupitelstva-mesta-ze-dne-2262023-5266cs.html",
+   "valid": true
+  },
+  {
+   "id": "hliniste",
+   "date": "2023-06-22",
+   "vi": 14,
+   "pol": "pro-vystavbe",
+   "label": "Smlouva o infrastruktuře – „Nové Strašecí výstavba RD a OV v lokalitě Hliniště“",
+   "dev": "soukromý stavebník",
+   "v": {
+    "i": 14,
+    "pos": 66402,
+    "pro": [
+     "Filip Karel",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Doležal Zdeněk",
+     "Burešová Alena",
+     "Verner Jiří"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Vondra Martin",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Černý Kamil",
+     "Lopour Radek",
+     "Vaic Pavel"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 9,
+     "proti": 0,
+     "zdrzel": 7,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": " mateřskou školku si chce ponechat ve svém vlastnictví, RD i kavárnu pronajímat, provoz mateřské školky se předpokládá rodinným příslušníkem (manželkou). Součástí developerského záměru je vznik veřejného prostoru se zelení, s umístěním herních prvků pro děti a relaxační zónou pro dospělé. Návrh Smlouvy předpokládá odprodej veřejné infrastruktury (vyjma distribučního rozvodu elektrické energie) za částku 1.000 Kč + DPH za každou jednotlivou část veřejné infrastruktury ve lhůtách dle návrhu Smlouvy – viz příloha. Developerský projekt byl projednán s městskou architektkou Ing. arch. Ladou Kolaříkovou, ta s ním nesouhlasí – viz příloha. Poznámka: odbor investic MěÚ nesdílí názor městské architektky, že je předmětný developerský projekt v rozporu s Územním plánem Nové Strašecí. Odbor výstavby, oddělení – úřad územního plánování a regionálního rozvoje MěÚ Rakovník vydal k developerskému projektu souhlasné sdělení 22. 6. 2022 – viz příloha. Po jednání dne 6. 6. 2023 žadatel předložil upravený situační plán s navýšením počtu parkovacích stání v lokalitě. Smlouvu schvaluje zastupitelstvo města. Rada města projednala návrh Smlouvy na svém zasedání dne 12. 6. 2023 a usnesením č. 286 nedoporučila zastupitelstvu města Smlouvu schválit. Do rozpravy se zapojili: Mgr. Jiří Verner, Ing. Martin Vondra, MBA, Mgr. Karel Filip – starosta města, Ing. Jan Bechyně. Poznámka: ve 20:00 hod. starosta města vyhlásil 15min. přestávku. Po přestávce bylo pokračováno v rozpravě, do které se zapojili: Mgr. Jiří Verner, Ing. Alena Burešová, Mgr. Karel Filip – starosta města, Ing. Jan Bechyně, p. Radek Lopour, Ing. Jan Bureš – 1.místostarosta města, Ing. Marie Králová – vedoucí OV, Bc. Kamil Černý, Bc. Štěpán Polívka. Z přítomných občanů: p. Tomáš Brhel, pí Simonová, Ing. Hana Brinkeová, Ph.D., Ing. Michal Štiller. Poznámka: Bc. Pavel Novák uvedl, že s panem Brhelem má nájemní vztah, tudíž z etických důvodů se nezapojil do rozpravy a nebude ani k tomuto bodu hlasovat. Poté zastupitelstvo města hlasovalo o návrhu na usnesení U s n e s e n í č. Zastupitelstvo města n e s c h v a l u j e smlouvu („O VYBUDOVÁNÍ NOVÉ NEBO ÚPRAVĚ STÁVAJÍCÍ VEŘEJNÉ DOPRAVNÍ NEBO TECHNICKÉ INFRASTRUKTURY“) mezi Městem Nové Strašecí na straně jedné, a stavebníkem panem ******, ********, na straně druhé, stanovující práva a povinnosti účastníků při výstavbě veřejné infrastruktury pro záměr stavby „Nové Strašecí výstavba RD a OV v lokalitě Hliniště“. Pro toto usnesení hlasovalo 9 členů zastupitelstva města, 7 členů se zdrželo hlasování. Návrh nebyl přijat. "
+   },
+   "num": null,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-ze-4-zastupitelstva-mesta-ze-dne-2262023-5266cs.html",
+   "valid": true
+  },
+  {
+   "id": "loskot-dod3a",
+   "date": "2023-06-22",
+   "vi": 16,
+   "pol": "pro-vystavbe",
+   "label": "Dodatek č. 3 Plánovací smlouvy 168/2012/OI – lokalita V Dolejších Hlavách (LOSKOT + Bradáč)",
+   "dev": "Loskot / Bradáč",
+   "v": {
+    "i": 16,
+    "pos": 72038,
+    "pro": [
+     "Filip Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Burešová Alena",
+     "Verner Jiří",
+     "Černý Kamil",
+     "Lopour Radek",
+     "Vaic Pavel"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Doležal Zdeněk",
+     "Novák Pavel"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 15,
+     "proti": 0,
+     "zdrzel": 2,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": " stanice včetně elektrorozvodurozvody elektro čerpací stanice tlakové kanalizace. Stavebníci jsou dle uzavřeného smluvního vztahu v prodlevě s předáním dokončené části veřejné technické infrastruktury: - veřejné osvětlení – právní účinky kolaudačního souhlasu nastaly 2. 12. 2022, veřejné osvětlení mělo být městu odprodáno po 120 dnech od vydání kolaudačního souhlasu, tedy do 1. 4. 2023, - komunikace, dešťová kanalizace, splašková kanalizace – právní moc nejpozdějšího stavebního povolení 2. 9. 2015, dle PLÁNOVACÍ SMLOUVY prodej nejpozději do 5-ti let od nabytí právní moci stavebního povolení – 2. 9. 2020. OI MěÚ zpracoval návrh dodatku č. 3 PLÁNOVACÍ SMLOUVY č. 168/2012/OI, který reaguje na nastalou skutečnost. Jeho předmětem je návrh na změnu článku č. V. Smlouvy Termíny plnění, do kterého je navrhováno vložit nově odst. 6 a 7, takto: 6. Pokud Stavebník i přes porušení závazných podmínek stanovených Smlouvou v čl. 5 projeví na základě písemné žádosti Městu zájem odprodat veřejnou dopravní a technickou infrastrukturu Městu za finanční úhradu Města ve výši dle čl. 2 odst. 5 Smlouvy, uhradí Stavebník Městu smluvní pokutu ve výši 1.000 Kč + DPH za každý den lhůty dle čl. V. odst.6. Tato smluvní pokuta bude splatná do 90 dnů ode dne rozhodnutí příslušných orgánů města o majetkovém převodu příslušní veřejné dopravní a technické infrastruktury Městu. 7) Lhůta, za kterou bude uplatněna smluvní pokuta, začne běžet po 15 dnech ode dne schválení tohoto Dodatku č. 3 Smlouvy Zastupitelstvem města, a bude končit dnem, kdy bude do podatelny MěÚ doručen návrh kupní smlouvy na odprodej příslušné veřejné dopravní a technické infrastruktury Městu jednostranně podepsaný Stavebníkem. V ostatním zůstává Plánovací smlouva beze změny. Dodatek č. 3 PLÁNOVACÍ SMLOUVY č. 168/2012/OI schvaluje Zastupitelstvo města. Rada města projednala Dodatek č. 3 PLÁNOVACÍ SMLOUVY č. 168/2012/OI na svém zasedání dne 12. 6. 2023 a usnesením č. 290 doporučila zastupitelstvu města předmětný Dodatek č. 3 PLÁNOVACÍ SMLOUVY č. 168/2012/OI schválit. Do rozpravy se zapojili: p. Michal Bünter – 2.místostarosta města, Mgr. Martin Vondra, Ing. Jan Bureš – 1.místostarosta města, Mgr. Jiří Verner, Ing. Jan Bechyně, Mgr. Karel Filip – starosta města, Bc. Pavel Novák. Z přítomných občanů: Mgr. Ing. Rudolfem Loskotem, LL.M.MBA, p. Baďura, p. Prošek, Mgr. Jiří Verner podal návrh na ukončení rozpravy. Pro tento návrh hlasovalo 15 členů zastupitelstva města, 2 členové se zdrželi hlasování. Návrh byl přijat. "
+   },
+   "num": null,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-ze-4-zastupitelstva-mesta-ze-dne-2262023-5266cs.html",
+   "valid": true
+  },
+  {
+   "id": "loskot-dod3b",
+   "date": "2023-06-22",
+   "vi": 17,
+   "pol": "pro-vystavbe",
+   "label": "Dodatek č. 3 Plánovací smlouvy – uložení starostovi podepsat (LOSKOT + Bradáč)",
+   "dev": "Loskot / Bradáč",
+   "v": {
+    "i": 17,
+    "pos": 74321,
+    "pro": [
+     "Filip Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Černý Kamil",
+     "Lopour Radek"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Vaic Pavel"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 13,
+     "proti": 0,
+     "zdrzel": 4,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": ". Jan Bechyně, Mgr. Karel Filip – starosta města, Bc. Pavel Novák. Z přítomných občanů: Mgr. Ing. Rudolfem Loskotem, LL.M.MBA, p. Baďura, p. Prošek, Mgr. Jiří Verner podal návrh na ukončení rozpravy. Pro tento návrh hlasovalo 15 členů zastupitelstva města, 2 členové se zdrželi hlasování. Návrh byl přijat. (Pro: Ing. Jan Bechyně, Mgr. Jiří Bouček, David Brabec, Michal Bűnter, Ing. Jan Bureš, Ing. Alena Burešová, Bc. Kamil Černý, Mgr. Karel Filip, Ing. Jiří Jurgovski, Vladimír Kozel, Radek Lopour, Bc. Štěpán Polívka, Ing. Pavel Vaic, Mgr. Jiří Verner, Ing. Martin Vondra, MBA, Zdrželi se: prof.RNDr. Zdeněk Doležal, Dr., Bc. Pavel Novák) Poté zastupitelstvo města přijalo U s n e s e n í č. 63 Zastupitelstvo města I. s c h v a l u j e Dodatek č. 3 PLÁNOVACÍ SMLOUVY č. 168/2012/OI ze dne 30. 5. 2012 č. 168/2012/OI, mezi Městem Nové Strašecí na straně jedné, a *********, bytem N******, a *****, bytem ********, na straně druhé jako stavebníky investičního záměru vybudování veřejné dopravní a technické infrastruktury v lokalitě V Dolejších Hlavách. Předmětem Dodatku č. 3 PLÁNOVACÍ SMLOUVY č. 168/2012/OI jsou změny v rozsahu: - změna článku č. V.PLÁNOVACÍ SMLOUVY Termíny plnění, do kterého se vkládají nově odst. 6 a 7, takto: 6. Pokud Stavebník i přes porušení závazných podmínek stanovených Smlouvou v čl. 5 projeví na základě písemné žádosti Městu zájem odprodat veřejnou dopravní a technickou infrastrukturu Městu za finanční úhradu Města ve výši dle čl. 2 odst. 5 Smlouvy, uhradí Stavebník Městu smluvní pokutu ve výši 1.000 Kč + DPH za každý den lhůty dle čl. V. odst.6. Tato smluvní pokuta bude splatná do 90 dnů ode dne rozhodnutí příslušných orgánů města o majetkovém převodu příslušní veřejné dopravní a technické infrastruktury Městu. 7) Lhůta, za kterou bude uplatněna smluvní pokuta, začne běžet po 15 dnech ode dne schválení tohoto Dodatku č. 3 Smlouvy Zastupitelstvem města, a bude končit dnem, kdy bude do podatelny MěÚ doručen návrh kupní smlouvy na odprodej příslušné veřejné dopravní a technické infrastruktury Městu jednostranně podepsaný Stavebníkem. Text Dodatku č. 3 PLÁNOVACÍ SMLOUVY č. 168/2012/OI je přílohou tohoto usnesení. II. u k l á d á starostovi města Dodatek č. 3 PLÁNOVACÍ SMLOUVY č. 168/2012/OI podepsat. Pro toto usnesení hlasovalo 13 členů zastupitelstva města, 4 členové se zdrželi hlasování. "
+   },
+   "num": null,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-ze-4-zastupitelstva-mesta-ze-dne-2262023-5266cs.html",
+   "valid": true
+  },
+  {
+   "id": "z36-verejne",
+   "date": "2023-04-27",
+   "vi": 17,
+   "pol": "proti-vystavbe",
+   "label": "Návrh svolat VEŘEJNÉ jednání výboru k lokalitám Z36/Z38/Z35 Čelechovice (NEPŘIJATO 11-2-6)",
+   "dev": "Z36 Čelechovická",
+   "v": {
+    "i": 17,
+    "pos": 54152,
+    "pro": [
+     "Vosátková Libuše",
+     "Brabec David",
+     "Bouček Jiří",
+     "Adelt Pavel",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Černý Kamil",
+     "Lopour Radek",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [
+     "Šnobl Karel",
+     "Polívka Štěpán"
+    ],
+    "zdrzel": [
+     "Filip Karel",
+     "Kozel Vladimír",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Doležal Zdeněk",
+     "Bünter Michal"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 11,
+     "proti": 2,
+     "zdrzel": 6,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "e by bylo vhodné řešit tyto lokality společně. Zároveň došlo ze strany majitelů pozemků směrem k Čelechovicím k upozornění, že komunikace ze strany města postrádá prvky komunikace v pravém slova smyslu, a ne všichni dotčení majitelé souhlasí s navrženou „přeparcelací“. Protože se při řešení lokality v Hamiru ukázalo, jak je potřebné s občany komunikovat, a že díky nim se dají dát věci do pohybu, považujeme za žádoucí, aby se i k této lokalitě vyjádřil Výbor pro strategický rozvoj města Nové Strašecí, který by proběhl za účasti všech dotčených stran, a to opět veřejně. Na základě těchto skutečností se navrhuje, aby zastupitelstvo města přijalo následující usnesení. Předložený návrh nemá dopad na rozpočet města. Do rozpravy se zapojili: Mgr. Karel Filip – starosta města, Bc. Pavel Novák, Mgr. Jiří Verner, Ing. Jan Bechyně požádal o uvedení do zápisu: „Z mé strany, pokud jednáte dlouhodobě, evidentně to není otázka posledního dne, s developerem a máte od něj nějakou zprávu a nebyli jste ochotni nám ji dát k dispozici, aby tady mohly k tomu vzniknou odpovídající dokumenty, případně mohly být doloženy věci, které možná vyvrátí, možná nevyvrátí, ty všechny věci, které máte v nějakém vašem dokumentu, tak pro mě je to nehlasovatelné. Protože my se bavíme o nějaké vaší komunikaci o nějakém materiálu, který jste tady zmínili, ze strany developera, že je nespokojen v těch a těch věcech a my o tomto materiálu nevíme, tak jak chcete hlasovat teď o tom usnesení.“ Dále se do rozpravy zapojili: Ing. Jan Bureš – 1.místostarosta města, Ing. et Ing. David Hubáček, p. Pavel Friebert -vedoucí OI, Ing. Pavel Vaic, Bc. Kamil Černý, p. Radek Lopour. Z přítomných občanů: Ing. Michal Štiller, Ing. Hana Brinkeová, Ph.D., p. František Řezáč. Poznámka: ve 21:10hod. odešel zastupitel Ing. Jan Bechyně (19) Po rozpravě zastupitelstvo města přijalo U s n e s e n í č. 52 Zastupitelstvo města u k l á d á I. Předsedovi Výboru pro strategický rozvoj města Nové Strašecí svolat veřejné jednání tohoto výboru, kde by byl projednáván návrh na komplexní dořešení lokality směrem na Čelechovice, která je dle územního plánu definována plochami Z36, Z38 a Z35 II. Předsedovi Výboru pro strategický rozvoj města Nové Strašecí pozvat na toto jednání všechny dotčené subjekty/vlastníky v této lokalitě Pro toto usnesení hlasovalo 11 členů zastupitelstva města, 2 členové hlasovali proti a 6 členů se zdrželo hlasování. "
+   },
+   "num": 3,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-3-zasedani-zastupitelstva-mesta-2742023-5207cs.html",
+   "valid": true
+  },
+  {
+   "id": "auri-zzn",
+   "date": "2024-04-25",
+   "vi": 11,
+   "pol": "neutral",
+   "label": "Auri, energy & property s.r.o. (LOSKOT) – areál ZZN předán výboru k projednání",
+   "dev": "Auri / Loskot",
+   "v": {
+    "i": 11,
+    "pos": 47361,
+    "pro": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Vosátková Libuše",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Adelt Pavel",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Janouš Petr",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Černý Kamil"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 19,
+     "proti": 0,
+     "zdrzel": 1,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "kročí 2 nadzemní podlaží + podkroví nebo ustupující podlaží /tam, kde to požaduje kapitola 2/. Podmínky pro využití ploch: a) malé objemy staveb (zástavba nízkopodlažní (pokud není řečen jiný požadavek na výškovou regulaci), zpravidla do 150 m2 zastavěné plochy), b) nízkopodlažní (zástavba do dvou nadzemních podlaží a podkroví, zástavba, která zpravidla nepřesahuje výšku 6 metrů ke koruně okapové římsy) a středněpodlažní zástavba (zástavba do 4 nadzemních podlaží a podkroví (ustupující podlaží), zástavba, která zpravidla nepřesahuje výšku 10 metrů ke koruně okapové římsy), c) nadzemní stavby posazené na uliční čáru v souladu s okolní zástavbou – navazující, d) dopravní napojení z ploch stávajících místních komunikací, e) minimální podíl zeleně 30 %. Žadatel v žádosti u varianty bytové zástavby konstatuje nutnost změny územního plánu. Rada města se došlou žádostí zabývala dne 4. 3. 2024 s výsledkem, že se jedná o natolik strategickou záležitost, že tato bude předložena na nejbližším zasedání ZM s návrhem, aby jí projednal výbor Zastupitelstva města pro strategický rozvoj města. Žadatel byl o tomto projednání v RM informován dopisem z 11. 3. 2024. Opětovně se rada města předmětnou žádosti zabývala na svém zasedání dne 15. 4. 2024 a svým usnesením č. 632 doporučila zastupitelstvu města návrh usnesení, aby zastupitelstva města uložilo výboru zastupitelstva města pro strategický rozvoj města projednat žádost spol. Auri, energy & property s. r. o., Průmyslová 1208, 271 01 Nové Strašecí, ze dne 22. 2. 2024, týkající se záměru nového využití areálu ZZN. Do rozpravy se zapojili: Ing. Jan Bureš -1.místostarosta města, Bc. Pavel Novák, Ing. Alena Burešová, Ing.et Ing. David Hubáček, p. Michal Bünter – 2.místostarosta města, p. Pavel Friebert – vedoucí OI, Mgr. Petr Janouš, Ing. et Ing. Martin Vondra, Ing. Jan Bechyně. Z přítomných občanů: Ing. Adolf Bradáč a Ing. Michal Štiller. Poté zastupitelstvo města přijalo U s n e s e n í č. 111 Zastupitelstvo města u k l á d á výboru Zastupitelstva města pro strategický rozvoj města projednat žádost spol. Auri, energy & property s. r. o., Průmyslová 1208, 271 01 Nové Strašecí, ze dne 22. 2. 2024, týkající se záměru nového využití areálu ZZN. Pro toto usnesení hlasovalo 19 členů zastupitelstva města, 1 člen se zdržel hlasování. "
+   },
+   "num": 9,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/videozaznam-a-zapis-z-9-zasedani-zastupitelstva-mesta-ze-dne-2542024-5669cs.html",
+   "valid": true
+  },
+  {
+   "id": "odpocivka",
+   "date": "2024-11-14",
+   "vi": 9,
+   "pol": "proti-vystavbe",
+   "label": "Upuštění od změny ÚP č. 5b – dálniční odpočívka ŘSD, předáno na VEŘEJNÉ jednání výboru",
+   "dev": "ŘSD",
+   "v": {
+    "i": 9,
+    "pos": 49120,
+    "pro": [
+     "Filip Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Adelt Pavel",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Černý Kamil",
+     "Janouš Petr",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [],
+    "zdrzel": [],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 19,
+     "proti": 0,
+     "zdrzel": 0,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": " pozvat zástupce ŘSD na nejbližší zasedání zastupitelstva města s tím, že požadujeme komplexní informace o tomto záměru a jeho představení veřejnosti a zastupitelům města Ze strany města by následně na základě kompletních informací měla být vypracována cost- benefit analýza a ta projednána s občany města. Do té doby není možné o záměru vybudování dálniční odpočívky vůbec uvažovat a případné další návrhy na změnu územního plánu v tomto duchu přijímat. Dle jednacího řádu zastupitelstva města Nové Strašecí čl. 4, odst. 6, písm. c, uvádíme, že ekonomický dopad návrhu je nulový. Návrh na usnesení : U s n e s e n í č. Zastupitelstvo města: I. u p o u š t í od pořízení změny č. 5b Územního plánu sídelního útvaru Nové Strašecí II. u k l á d á starostovi města Mgr. Karlu Filipovi pozvat na další zasedání zastupitelstva města zástupce ŘSD k prezentaci záměru ŘSD vybudovat v katastru Nové Strašecí dálniční odpočívku Poznámka: ve 20:00hod. starosta města vyhlásil 15 min. přestávku. Po přestávce byla zahájena rozprava, do které se zapojili: Ing. Jan Bureš-1.místostarosta města, Bc. Pavel Novák, Ing. Alena Burešová, Ing. Jan Bechyně, Mgr. Jiří Verner, Ing. et Ing. David Hubáček, Mgr. Karel Filip – starosta města, Mgr. Petr Janouš, p. Michal Bünter, p. David Brabec, Ing. Pavel Adelt, MBA, Bc. Kamil Černý, Z přítomných občanů Ing. Michal Štiller, p. František Řezáč, pí Žaneta Trochymčuk, Ing. Hana Brinkeová, Ph.D., p. Radek Lopour, p. Jiří Toužimský. Ing. Alena Burešová požádala, aby byla do zápisu uvedena slova Ing. Jana Bureše „Změnu územního plánu ve věci odpočívky nepodpořím.“ Mgr. Petr Janouš požádal uvést do zápisu: „David Brabec řekl, že slibuje, že bude proti dálniční odpočívce.“ Poznámka: v průběhu rozpravy ve 20:40hod. odešel zastupitel Bc. Karel Šnobl (19) Na základě rozpravy Koalice Společně pro Nové Strašecí a Pecínov a STAN přeformulovala svůj návrh na usnesení, o kterém dal pan starosta po přestávce hlasovat. Poznámka: ve 21:30 hod. starosta města vyhlásil 10min. přestávku. Poté zastupitelstvo města přijalo U s n e s e n í č. 145 Zastupitelstvo města u k l á d á výboru pro strategický rozvoj města Zastupitelstva města Nové Strašecí projednat materiály ke změně územního plánu č. 5b, které se týkají požadavku Ředitelství silnic a dálnic na dálniční odpočívku v k.ú. Nové Strašecí, na veřejném zasedání. Pro toto usnesení hlasovalo 19 členů zastupitelstva města. "
+   },
+   "num": 12,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-12-zasedani-zastupitelstva-mesta-ze-dne-14112024-5867cs.html",
+   "valid": true
+  },
+  {
+   "id": "up5a",
+   "date": "2025-03-06",
+   "vi": 8,
+   "pol": "pro-vystavbe",
+   "label": "Vydání změny č. 5.A Územního plánu Nové Strašecí",
+   "dev": "—",
+   "v": {
+    "i": 8,
+    "pos": 35734,
+    "pro": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Vondra Martin",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Vosátková Libuše",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Adelt Pavel",
+     "Janouš Petr",
+     "Vaic Pavel"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 15,
+     "proti": 0,
+     "zdrzel": 3,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": " časově provázané, děje se tak optimálně jedním aktem, tedy jedním usnesením, na jednom a tomtéž zasedání zastupitelstva ve dvou na sebe bezprostředně navazujících krocích, tj. hlasuje se nejprve o schválení návrhu rozhodnutí o námitkách, o vyhodnocení připomínek a ve druhém kroku o vydání změny územního plánu. Rozhodnutí o námitkách, vyhodnocení připomínek je následně publikováno a vydáváno současně s vydáním změny územního plánu jako opatření obecné povahy, a to v jeho odůvodnění. Zastupitelstvo hlasuje o návrhu rozhodnutí o námitkách, o vyhodnocení připomínek jako o celku. Text je koncipován tak, aby z něj bylo zřejmé, jak zastupitelstvo o každé jedné námitce, připomínce rozhodlo a proč právě takto (odůvodnění). Pokud bude nesouhlas zastupitelstva města s návrhem vyhodnocení připomínky či návrhem rozhodnutí o námitce, není možné změnu územního plánu vydat. Do rozpravy se zapojili: Ing. et Ing. David Hubáček, Ing. Jan Bureš – 1.místostarosta města, Ing. Jan Bechyně, Bc. Pavel Novák. Z přítomných občanů: Ing. Michal Štiller. Poznámka: Ing. et Ing. David Hubáček uvedl, že z důvodu možného střetu zájmů nebude k tomuto bodu hlasovat. Poté zastupitelstvo města přijalo U s n e s e n í č. 162 Zastupitelstvo města I. o v ě ř i l o soulad dokumentace změny č. 5.A Územního plánu Nové Strašecí s podmínkami § 54 odst. 2 zákona č.183/2006 Sb. o územním plánování a stavebním řádu, ve spojení s přechodným ustanovením § 323 odst.9 zák. č. 283/2021 Sb. stavební zákon. II. s ch v a l u j e návrh rozhodnutí o podaných námitkách ke změně č.5.A Územního plánu Nové Strašecí dle předloženého návrhu (v odůvodnění opatření obecné povahy bod m.). III. s o u h l a s í s návrhem řešení uplatněných připomínek podaných k návrhu změny č.5.A Územního plánu Nové Strašecí dle předloženého návrhu (v odůvodnění opatření obecné povahy bod n.). IV. v y d á v á změnu č. 5.A Územního plánu Nové Strašecí formou opatření obecné povahy města Nové Strašecí č.1/2025 a to v souladu s ustanovením § 6 odst. 5. písm. c) a § 54 odst. 2 zákona č. 183/2006 Sb. o územním plánování a stavebním řádu, ve spojení s přechodným ustanovením § 323 odst.9 zák. č. 283/2021 Sb. stavební zákon. V. u k l á d á starostovi města oznámit vydání změny č. 5.A Územního plánu Nové Strašecí a doručení Úplného znění Územního plánu Nové Strašecí po vydání změny č. 5.A veřejnou vyhláškou podle § 25 zákona č. 500/2004 Sb. správní řád, ve znění pozdějších předpisů. Pro toto usnesení hlasovalo 15 členů zastupitelstva města, 3 členové se zdrželi hlasování. "
+   },
+   "num": 14,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-ze-14-zasedani-zastupitelstva-mesta-dne-632025-6010cs.html",
+   "valid": true
+  },
+  {
+   "id": "pecinov",
+   "date": "2025-03-06",
+   "vi": 10,
+   "pol": "proti-vystavbe",
+   "label": "Změna ÚP „Pod viaduktem – Pecínov“ – ZM NESOUHLASÍ (dle doporučení výboru)",
+   "dev": "soukromý žadatel",
+   "v": {
+    "i": 10,
+    "pos": 46121,
+    "pro": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Vondra Martin",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Vosátková Libuše",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Adelt Pavel",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Janouš Petr"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 18,
+     "proti": 0,
+     "zdrzel": 1,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "t pana *****, bytem *******, na změnu územního plánu obce Nové Strašecí zkráceným postupem – parc. č. 2289/1, 2436/11, 2436/12 a 2222/9 v kat. území Nové Strašecí: Současný stav dle územního plánu: - 2289/1: NZo-S Plochy zemědělské – orná půda - 2436/11: DSm-S Plochy dopravní infrastruktury – místní komunikace - 2436/12: DSm-S Plochy dopravní infrastruktury – místní komunikace - 2222/9 NZo-S Plochy zemědělské – orná půda Navrhovaný nový stav: - 2289/1, 2436/11, 2436/12 a 2222/9: BI-S Plochy bydlení v rodinných domech – městské a příměstské (5 x rodinný dům, 4 x domky pro seniory, mateřská škola, kavárna- cukrárna). Další: - Žádán je tzv. zkrácený postup. K žádosti bylo doloženo stanovisko Krajského úřadu Středočeského kraje. - Žadatel navrhuje financování pořízení změny ÚP: a) V případě, že bude žadatel jediným účastníkem pořízení změny ÚP, náklady na zpracování změny ÚP, vyhodnocení vlivu na udržitelný rozvoj dotčeného území, případně zpracování úplného znění ÚP a změn regulačních plánů touto změnou vyvolaných uhradí žadatel ve výši 100 % finančních nákladů. b) Pokud se k úpravě ÚP připojí i další účastníci, uhradí každý žadatel o změnu ÚP poměrnou část nákladů spojených s uvedenými úpravami ÚP. Jelikož zastupitelstvo města požaduje projednání každé změny územního plánu ve výboru pro strategický rozvoj města před rozhodováním o jejím pořízení v zastupitelstvu města, žádost byla výboru pro strategický rozvoj předána usnesením rady města dne 10. 9. 2024 pod usnesením č. 817. Výbor se žádostí zabýval na svém jednání dne 11. 12. 2024 a doporučuje zastupitelstvu města s touto změnou územního plánu města nesouhlasit. Do rozpravy se zapojili: Ing. Alena Burešová, p. Michal Bünter – 2.místostarosta města, Ing. Jan Bureš – 1.místostarosta města, Mgr. Jiří Verner. Z přítomných občanů: p. Libor Čihák, pí Eva Kovářová, p. Jiří Toužimský. Poté zastupitelstvo města přijalo U s n e s e n í č. 164 Zastupitelstvo města n e r o z h o d u j e o pořízení změny územního plánu obce Nové Strašecí postupem podle § 87 zákona č. 283/2021 Sb., stavební zákon, v platném znění (stavební zákon), k žádosti p. ******, bytem *********, která se týká parcel č. 2289/1, 2436/11, 2436/12 a 2222/9 v kat. území Nové Strašecí Pro toto usnesení hlasovalo 18 členů zastupitelstva města, 1 člen se zdržel hlasování. "
+   },
+   "num": 14,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-ze-14-zasedani-zastupitelstva-mesta-dne-632025-6010cs.html",
+   "valid": true
+  },
+  {
+   "id": "zzn-byty",
+   "date": "2025-03-06",
+   "vi": 13,
+   "pol": "pro-vystavbe",
+   "label": "Stanovisko k projektu v areálu ZZN – SOUHLAS s bytovými domy (Bradáč/Loskot)",
+   "dev": "Loskot / Bradáč",
+   "v": {
+    "i": 13,
+    "pos": 57630,
+    "pro": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Vondra Martin",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Vosátková Libuše",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Adelt Pavel",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Janouš Petr",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [],
+    "zdrzel": [],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 19,
+     "proti": 0,
+     "zdrzel": 0,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "která zpravidla nepřesahuje výšku 10 metrů ke koruně okapové římsy), c) nadzemní stavby posazené na uliční čáru v souladu s okolní zástavbou – navazující, d) dopravní napojení z ploch stávajících místních komunikací, e) minimální podíl zeleně 30 %. Žadatel v žádosti u varianty bytové zástavby konstatuje nutnost změny územního plánu. Rada města se došlou žádostí zabývala dne 4. 3. 2024 s výsledkem, že se jedná o natolik strategickou záležitost, že tato bude předložena na nejbližším zasedání ZM s návrhem, aby jí projednal výbor zastupitelstva města pro strategický rozvoj města. Žadatel byl o tomto projednání v RM informován dopisem z 11. 3. 2024. Opětovně se rada města předmětnou žádostí zabývala na svém zasedání dne 15. 4. 2024 a svým usnesením č. 632 doporučila zastupitelstvu města návrh usnesení, aby zastupitelstvo města uložilo výboru zastupitelstva města pro strategický rozvoj města projednat žádost spol. Auri, energy & property s. r. o., Průmyslová 1208, 271 01 Nové Strašecí, ze dne 22. 2. 2024, týkající se záměru nového využití areálu ZZN. Zastupitelstvo města se tímto bodem zabývalo na svém jednání dne 25.4.2024 a svým usnesením č. 111 uložilo výboru pro strategický rozvoj se touto žádostí zabývat. Výbor se žádostí zabýval na několika jednáních. Žadatelé se účastnili jednání výboru dne 27.6.2024 (zápis č. 16) a dále pak jednání výboru dne 17.9.2024 (zápis č. 18). Na jednání výboru dne 20.11.2024 došlo k doporučení zastupitelstvu, které je předloženo na dnešní jednání zastupitelstva města (zápis č. 20). Do rozpravy se zapojili: Ing. et Ing. David Hubáček, Mgr. Karel Filip – starosta města, Bc. Pavel Novák, Stanislav Jahelka, DiS. – vrchní strážník MěP. Z přítomných občanů: Ing. Michal Štiller. Poté zastupitelstvo města přijalo U s n e s e n í č. 167 Zastupitelstva města I. k o n s t a t u j e že předložený záměr přestavby bývalého areálu ZZN, a.s vyžaduje změnu územního plánu II. n e s o u h l a s í s navrhovaným řešením využití plochy pro bydlení v bytových domech s částečným využitím pro občanskou vybavenost III. d o p o r u č u j e vedení města pokračovat v jednání s majiteli areálu bývalého ZZN, a.s. o využití území (dle územního plánu plocha přestavby P5) Pro toto usnesení hlasovalo 19 členů zastupitelstva města. "
+   },
+   "num": 14,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-ze-14-zasedani-zastupitelstva-mesta-dne-632025-6010cs.html",
+   "valid": true
+  },
+  {
+   "id": "deco-a",
+   "date": "2025-04-24",
+   "vi": 13,
+   "pol": "pro-vystavbe",
+   "label": "DECO TRADE s.r.o. – smlouva o infrastruktuře (9 RD)",
+   "dev": "DECO TRADE s.r.o.",
+   "v": {
+    "i": 13,
+    "pos": 61397,
+    "pro": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Vosátková Libuše",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Adelt Pavel",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Černý Kamil",
+     "Janouš Petr",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [],
+    "zdrzel": [],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 19,
+     "proti": 0,
+     "zdrzel": 0,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "raněny. Toto se netýká situace, pokud mimořádná nepředvídatelná a nepřekonatelná příčina, překážka, okolnost nebo událost vznikla nezávisle na vůli stavebníka, kterou neměl možnost ovlivnit. Dne 27. 3. 2025 předložil žadatel vysvětlující sdělení k návrhu plánovací smlouvy. Vybudování nové veřejné dopravní a technické infrastruktury dle předmětné Smlouvy bude bez finančního podílu Města. Smlouvu schvaluje Zastupitelstvo města. OI doporučuje RM předložit Smlouvu Zastupitelstvu města k projednání. Rada města projednala na svém zasedání dne 14.4.2025 předmětnou žádost a svým usnesením č. 1077 doporučila zastupitelstvu návrh níže uvedeného usnesení. Do rozpravy se zapojili: Bc. Pavel Nová, Ing. Jan Bureš – 1.místostarosta města. Z přítomných občanů: Ing. Michal Štiller, pí Volfová. Poté zastupitelstvo města přijalo U s n e s e n í č. 178 I. s c h v a l u j e smlouvu („O VYBUDOVÁNÍ NOVÉ NEBO ÚPRAVĚ STÁVAJÍCÍ VEŘEJNÉ DOPRAVNÍ NEBO TECHNICKÉ INFRASTRUKTURY“) mezi Městem Nové Strašecí na straně jedné, a stavebníkem Spol. DECO TRADE s. r. o., sídlem Čsl. armády 182, Nové Strašecí, IČ: 09560530, na developerský projekt „Nové Strašecí výstavba 4 RD Jabloňová ul.“, v rozsahu: - Stavebník se zavazuje vybudovat dopravní a technickou infrastrukturu zahrnující a) Pozemky ve vlastnictví „Stavebníka“ parc. č. 1497/9, 1497/10, 1497/1 1, 1497/2, 1497/13 a 1485/11 všechny uvedené pozemky vedené v KN pro obec a kat. území Nové Strašecí. b) Splašková kanalizace v celkové délce cca 155m, z čehož 150 m bude kanalizace tlaková a 4,22 m bude kanalizace gravitační, le schválené přiložené projektové dokumentace s Technickými službami Nové Strašecí s. r. o. c) Nový vodovodní řad z potrubí PE-HD PE100 d90 x 5,4 mm SDR17 PN10 RC v délce 150,84 m, přípojky z PE- HD PE100 d32 x 2,0 mm (nebo d40 x 2,4 mm) SDR 17 PN 10 RC (modrý pruh). Řad je v převážné většině trasy navržen v souběhu se stokou, částečně plynovodem a kabelem NN. d) Kabelové vedení NN pro čtyři RD je řešeno se společností ČEZ. e) Na základě požadavku provozovatele VO (TSNS) bude na náklady stavebníka vybudován nový přípojný bod s měřením na konci ulice Jabloňová. f) Plánovaná komunikace bude podle projektu napojena na ulici Jabloňovou prostřednictvím pozemku 1485/22 v katastrálním území Nové Strašecí, na kterém byla pro účel přístupu, jízdy a vybudování dopravní a technické infrastruktury zřízena dvě věcná břemena. nová pravidla Sociálního fondu města Nové Strašecí pro děti a mladistvé s platností od 25.4.2025. Text pravidel je přílohou tohoto usnesení. Pro toto usnesení hlasovalo 19 členů zastupitelstva města "
+   },
+   "num": 15,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-15-zasedani-zastupitelstva-mesta-ze-dne-2442025-6056cs.html",
+   "valid": true
+  },
+  {
+   "id": "deco-b",
+   "date": "2025-04-24",
+   "vi": 12,
+   "pol": "pro-vystavbe",
+   "label": "DECO TRADE s.r.o. – uložení starostovi smlouvu podepsat",
+   "dev": "DECO TRADE s.r.o.",
+   "v": {
+    "i": 12,
+    "pos": 55904,
+    "pro": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Vosátková Libuše",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Adelt Pavel",
+     "Novák Pavel",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Burešová Alena",
+     "Verner Jiří",
+     "Černý Kamil",
+     "Janouš Petr"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 15,
+     "proti": 0,
+     "zdrzel": 4,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "Kamil Černý, prof. RNDr. Zdeněk Doležal, Dr., Mgr. Karel Filip, Ing. et Ing. David Hubáček, Mgr. Petr Janouš, Vladimír Kozel, Bc. Pavel Novák, Bc. Štěpán Polívka, Bc. Karel Šnobl, Ing. Pavel Vaic, Mgr. Jiří Verner, RNDr. Libuše Vosátková) 11) Smlouva „O VYBUDOVÁNÍ NOVÉ NEBO ÚPRAVĚ STÁVAJÍCÍ VEŘEJNÉ DOPRAVNÍ NEBO TECHNICKÉ INFRASTRUKTURY“ dále jen „smlouva“– DECO TRADE s. r. o. Spol. DECO TRADE s. r. o., sídlem Čsl. armády 182, Nové Strašecí, IČ: 09560530, požádala dne 19. 2. 2025 o projednání smlouvy „O VYBUDOVÁNÍ NOVÉ NEBO ÚPRAVĚ STÁVAJÍCÍ VEŘEJNÉ DOPRAVNÍ NEBO TECHNICKÉ INFRASTRUKTURY“ na developerský projekt „Nové Strašecí výstavba 4 RD Jabloňová ul.“: - Pozemky ve vlastnictví „Stavebníka“ parc. č. 1497/9, 1497/10, 1497/1 1, 1497/2, 1497/13 a 1485/11 všechny uvedené pozemky vedené v KN pro obec a kat. území Nové Strašecí. - Splašková kanalizace v celkové délce cca 155m, z čehož 150 m bude kanalizace tlaková a 4,22 m bude kanalizace gravitační, dle schválené přiložené projektové dokumentace s Technickými službami Nové Strašecí s. r. o. - Nový vodovodní řad z potrubí PE-HD PE100 d90 x 5,4 mm SDR17 PN10 RC v délce 150,84 m, přípojky z PE- HD PE100 d32 x 2,0 mm (nebo d40 x 2,4 mm) SDR 17 PN 10 RC (modrý pruh). Řad je v převážné většině trasy navržen v souběhu se stokou, částečně plynovodem a kabelem NN. - Kabelové vedení NN pro čtyři RD je řešeno se společností ČEZ. - Na základě požadavku provozovatele VO (TSNS) bude na náklady stavebníka vybudován nový přípojný bod s měřením na konci ulice Jabloňová. - Plánovaná komunikace bude podle projektu napojena na ulici Jabloňovou prostřednictvím pozemku 1485/22 v katastrálním území Nové Strašecí, na kterém byla pro účel přístupu, jízdy a vybudování dopravní a technické infrastruktury zřízena dvě věcná břemena. - Technická a dopravní infrastruktura bude vybudována do 12 měsíců od získání stavebního povolení na vybudování přístupové komunikace. - Převod technické a dopravní infrastruktury: a) Splašková kanalizace bude po dokončení a kolaudaci převedena na Město Nové Strašecí za paušální částku 1.000,- Kč. b) Vodovod bude po dokončení a kolaudaci převeden na Město Nové Strašecí za paušální částku 1.000,- Kč. c) Veřejné osvětlení bude po dokončení a kolaudaci převedeno na Město Nové Strašecí za paušální částku 1.000,- Kč. d) Komunikace zůstanou v majetku „Stavebníka“. e) Rozvody NN budou v majetku společnosti ČEZ. Text Smlouvy je přílohou tohoto usnesení. II. u k l á d á starostovi města příslušnou smlouvu podepsat. Pro toto usnesení hlasovalo 15 členů zastupitelstva města, 4 členové se zdrželi hlasování. "
+   },
+   "num": 15,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-15-zasedani-zastupitelstva-mesta-ze-dne-2442025-6056cs.html",
+   "valid": true
+  },
+  {
+   "id": "up2792",
+   "date": "2025-06-19",
+   "vi": 13,
+   "pol": "pro-vystavbe",
+   "label": "Souhlas s pořízením změny ÚP – pozemky parc. č. 2792/2, 2792/3",
+   "dev": "soukromý žadatel",
+   "v": {
+    "i": 13,
+    "pos": 52433,
+    "pro": [
+     "Filip Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Vosátková Libuše",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Černý Kamil",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Janouš Petr"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 16,
+     "proti": 0,
+     "zdrzel": 1,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": " Pavel Vaic, Ing. Martin Vondra, MBA, RNDr. Libuše Vosátková) . 10) Žádost o změnu územního plánu - pozemky parc. č. 2792/2 (část) a 2792/3 v kat. území Nové Strašecí Na MěÚ Nové Strašecí byla dne 10. 2. 2025 doručena žádost *****, *******, a *****, ******, o změnu územního plánu Nové Strašecí v rozsahu: - pozemky parc. č. 2792/2 (část) a 2792/3 v kat. území nové Strašecí. V Územním plánu města Nové Strašecí se jedná o plochu ZS-S – plochy zeleně – soukromá a vyhrazená. Žádáno bylo o změnu územního plánu na plochu RI-S – plochy rekreace – plochy staveb pro rodinnou rekreaci, případně jinou plochu, která by umožňovala umístění stavby, která již historicky byla postavena před 38 lety . Pro nejasnost a neúplnost žádosti z pohledu návrhu úhrady nákladů na mapové podklady, na zpracování územně plánovací dokumentace nebo její změny projektantem, na vyhodnocení vlivů, zpracovává-li se, na vyhotovení úplného znění územně plánovací dokumentace po její změně, na změnu navazující územně plánovací dokumentace a náklady na náhradu za změnu v území, byli žadatelé dne 17. 2. 2025 vyzvání k upřesnění a doplnění žádosti. Ta byla doplněna dne 14. 5. 2025 v rozsahu: - Přesným požadavkem nového funkčního využití je plocha RI-S – plochy rekreace – plochy staveb pro rodinnou rekreaci. - Vzhledem k tomu, že žadatelé nemají dle jejich vyjádření na úhradu nákladů na pořízení změny (ÚP) dostatek vlastních finančních prostředků, žádali o projednání jejich žádosti o změnu územního plánu v rámci pořizování případné budoucí změny územního plánu městem. Rada města projednala žádost dne 26.5.2025 a přijala usnesení č. 1115, kdy v souladu s usnesením zastupitelstva města č. 268 z 3. 2. 2022 žádost ***************, předává k posouzení výboru pro strategický rozvoj města. Výbor pro strategický rozvoj města žádost projednal na svém 28 výboru dne 29.5.2025 s tím, že doporučuje zastupitelstvu města s touto žádosti nesouhlasit. Do rozpravy se nikdo nezapojil. Poté zastupitelstvo města přijalo U s n e s e n í č. 190 Zastupitelstvo města n e s o u h l a s í s pořízením změny územního plánu dle žádosti p. *****, ******** a *****, **********ze dne 10.2.2025 týkající se pozemků parc. č. 2792/2 (část) a 2792/3 v kat. území nové Strašecí Pro toto usnesení hlasovalo 16 členů zastupitelstva města, 1 člen se zdržel hlasování. "
+   },
+   "num": 16,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-16-zasedani-zastupitelstva-mesta-dne-1962025-6120cs.html",
+   "valid": true
+  },
+  {
+   "id": "z36-neschv",
+   "date": "2026-09-17",
+   "vi": 11,
+   "pol": "proti-vystavbe",
+   "label": "Z36 Nové Strašecí – ZM NESCHVALUJE plánovací smlouvu (LOSKOT / Auri, 126 bytů)",
+   "dev": "Auri / Loskot",
+   "v": {
+    "i": 11,
+    "pos": 50860,
+    "pro": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Vosátková Libuše",
+     "Bünter Michal",
+     "Bouček Jiří",
+     "Adelt Pavel",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Janouš Petr"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 16,
+     "proti": 0,
+     "zdrzel": 2,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "em město nesouhlasí, opět nedává smysl uzavírat smlouvu. - Dále investor odstranil i veškeré zajišťovací instituty a některé smluvní pokuty, což vede k snížení jistoty města ohledně plnění dohody. Vedle toho byly provedeny i další změny, které by bylo nezbytné projednat. - Lze shrnout, že investor provedl v návrhu investičního záměru a textu smlouvy podstatné změny, které nebyly s městem projednány a odsouhlaseny. Nemůže tak očekávat, že město smlouvu v jím nově předložené verzi bez dalšího uzavře. Na základě: a) projednávání věci ve výboru pro strategický rozvoj města a b) připomínek Frank Bold Advokáti, s.r.o. – Mgr. Lenky Hlaváčové – k textu plánovací smlouvy k žádosti dne 19. 8. 2026, odbor investic doporučil radě města, aby navrhla zastupitelstvu města vzít žádost ***********, Auri, energy & property s.r.o. – v zastoupení JUDr. Petra Bauera, ze dne 19. 8. 2026 na vědomí, předložený text plánovací smlouvy k žádosti ze dne 19. 8. 2026 neschválit a uložit radě města a výboru pro strategický rozvoj města předmětnou věc dále projednávat. Rada města projednala podanou žádost na svém jednání dne 7. 9. 2026 a přijala k projednávané věci usnesení č. 1578. Do rozpravy se zapojili: Bc. Pavel Novák, Ing. Jan Bureš – 1.místostarosta města, p. Michal Bünter – 2.místostarosta města, p. Pavel Friebert – vedoucí OI, Mgr. Karel Filip – starosta města. Z přítomných občanů se do rozpravy zapojili: Mgr. Ing. Rudolf Loskot, LL.M. MBA, Ing. Michal Štiller. Poté zastupitelstvo města přijalo U s n e s e n í č. 248 Zastupitelstvo města I. b e r e n a v ě d o m í žádost ************, Auri, energy & property s.r.o., ze dne 19. 8. 2026, o zařazení bodu na jednání zastupitelstva města včetně jeho schválení – uzavření plánovací smlouvy ke stavebnímu záměru – lokalita Z36 Nové Strašecí. II. n e s ch v a l u j e Plánovací smlouvu k povolení záměru lokalita Z36 Nové Strašecí dle žádosti *****************, Auri, energy & property s.r.o., dle žádosti ze dne 19. 8. 2026. III. u k l á d á radě města a výboru pro strategický rozvoj města pokračovat se žadateli ***************, a Auri, energy & property s.r.o., v jednání o uzavření Plánovací smlouvy k povolení záměru lokalita Z36 Nové Strašecí. Pro toto usnesení hlasovalo 16 členů zastupitelstva města, 2 členové se zdrželi hlasování. "
+   },
+   "num": 23,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-23-zasedani-zastupitelstva-mesta-ze-dne-1792026-6714cs.html",
+   "valid": true
+  }
+ ],
+ "cluz": [
+  {
+   "id": "cluz-spolecne",
+   "date": "2025-06-19",
+   "vi": 6,
+   "pol": "proti-tezbe",
+   "label": "Návrh svolat společné jednání zastupitelů NS a Rynholce k memorandu ČLUZ (NEPŘIJATO 5-8-4)",
+   "v": {
+    "i": 6,
+    "pos": 21936,
+    "pro": [
+     "Burešová Alena",
+     "Novák Pavel",
+     "Janouš Petr",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [
+     "Filip Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Vosátková Libuše",
+     "Bünter Michal",
+     "Brabec David"
+    ],
+    "zdrzel": [
+     "Polívka Štěpán",
+     "Bechyně Jan",
+     "Doležal Zdeněk",
+     "Černý Kamil"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 5,
+     "proti": 8,
+     "zdrzel": 4,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "6.2025 budou připravovat materiály pravděpodobně pro další zasedání v září. 3. Problematika dopravní zátěže města NS nákladní dopravou je spojená nejen s hornickou činností, ale také s dovozem suroviny k vytížení rotační pece a se zavážkou odpadového materiálu k sanaci a rekultivaci vytěžených ploch. 4. Starosta Mgr. Karel Filip odmítl žádost opozičních zastupitelů svolat ve věci memoranda společnou schůzku zastupitelů města NS a záležitost s nimi osobně projednat. Před schválením memoranda města NS a společnosti ČLUZ navrhuji vyčkat na rozhodnutí zastupitelstva obce Rynholec. Do té doby požaduji aktivní jednání vedení města NS, které povede k otevřené diskuzi mezi zastupiteli obou samospráv na téma rizika rozšíření těžby a řešení dopravní zátěže místního regionu.“ Následně Ing. Alena Burešová podala protinávrh, kterým by zastupitelstvo města I. odročilo rozhodnutí o spolupráci města Nové Strašecí a spol. ČLUZ do doby rozhodnutí zastupitelstva obce Rynholec a II. uložilo starostovi města svolat společné jednání zastupitelů města Nové Strašecí a obce Rynholec. Mgr. Karel Filip, starosta města - sdělil 4 termíny, kdy mluvil se starostou Rynholce ohledně jejich rozhodnutí k memorandu, vždy s odpovědí, že zatím neprojednávali. Se starostou Rynholce je pravidelně ve spojení, volají si každý týden a informují se. Ke sdělení, že odmítl svolat ve věci memoranda společnou schůzku – požádal o zaslání e-mailem, kdy to odmítl, citoval ze svého e-mailu, kdy ke společnému jednání požadoval zaslat podklady pro jednání a návrh řešení. Tedy společné jednání neodmítl, naopak požádal o podklady, Ing. Burešová mu nic nezaslala. Jelikož žádné podklady nedostal, nic nesvolal. Dále se do rozpravy zapojili: Ing. Jan Bureš – 1.místostarosta města, Ing. Martin Vondra, MBA, Ing. et Ing. David Hubáček, Mgr. Petr Janouš, Ing. Alena Burešová, p. Michal Bünter- 2.místostarosta města, Ing. Jan Bechyně, Bc. Pavel Novák, Ing. Pavel Vaic, Z přítomných občanů: Ing. Renata Hajná – ČLUZ, p. František Řezáč, p. Zdeněk Vokráček, Ing. Michal Štiller, pí Iveta Mrnková, Dr. Ing. Pavel Kotyk, MUDr. Šárka Skálová. Nejdříve bylo hlasováno o protinávrhu Ing. Aleny Burešové U s n e s e n í č. Zastupitelstvo města I. o d r o č u j e rozhodnutí o spolupráci města Nové Strašecí a spol. ČLUZ do doby rozhodnutí zastupitelstva obce Rynholec II. u k l á d á starostovi města svolat společné jednání zastupitelů města Nové Strašecí a obce Rynholec. Pro tento návrh hlasovalo 5 členů zastupitelstva města, 8 členů hlasovalo proti a 4 členové se zdrželi hlasování. "
+   },
+   "num": 16,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-16-zasedani-zastupitelstva-mesta-dne-1962025-6120cs.html",
+   "valid": true
+  },
+  {
+   "id": "cluz-podpis",
+   "date": "2025-06-19",
+   "vi": 7,
+   "pol": "pro-tezbe",
+   "label": "Memorandum o spolupráci s ČLUZ a.s. – uložení starostovi podepsat (PŘIJATO 12-2-3)",
+   "v": {
+    "i": 7,
+    "pos": 23078,
+    "pro": [
+     "Filip Karel",
+     "Vondra Martin",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Vosátková Libuše",
+     "Doležal Zdeněk",
+     "Bünter Michal",
+     "Brabec David",
+     "Černý Kamil"
+    ],
+    "proti": [
+     "Burešová Alena",
+     "Novák Pavel"
+    ],
+    "zdrzel": [
+     "Janouš Petr",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 12,
+     "proti": 2,
+     "zdrzel": 3,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": ", kdy mluvil se starostou Rynholce ohledně jejich rozhodnutí k memorandu, vždy s odpovědí, že zatím neprojednávali. Se starostou Rynholce je pravidelně ve spojení, volají si každý týden a informují se. Ke sdělení, že odmítl svolat ve věci memoranda společnou schůzku – požádal o zaslání e-mailem, kdy to odmítl, citoval ze svého e-mailu, kdy ke společnému jednání požadoval zaslat podklady pro jednání a návrh řešení. Tedy společné jednání neodmítl, naopak požádal o podklady, Ing. Burešová mu nic nezaslala. Jelikož žádné podklady nedostal, nic nesvolal. Dále se do rozpravy zapojili: Ing. Jan Bureš – 1.místostarosta města, Ing. Martin Vondra, MBA, Ing. et Ing. David Hubáček, Mgr. Petr Janouš, Ing. Alena Burešová, p. Michal Bünter- 2.místostarosta města, Ing. Jan Bechyně, Bc. Pavel Novák, Ing. Pavel Vaic, Z přítomných občanů: Ing. Renata Hajná – ČLUZ, p. František Řezáč, p. Zdeněk Vokráček, Ing. Michal Štiller, pí Iveta Mrnková, Dr. Ing. Pavel Kotyk, MUDr. Šárka Skálová. Nejdříve bylo hlasováno o protinávrhu Ing. Aleny Burešové U s n e s e n í č. Zastupitelstvo města I. o d r o č u j e rozhodnutí o spolupráci města Nové Strašecí a spol. ČLUZ do doby rozhodnutí zastupitelstva obce Rynholec II. u k l á d á starostovi města svolat společné jednání zastupitelů města Nové Strašecí a obce Rynholec. Pro tento návrh hlasovalo 5 členů zastupitelstva města, 8 členů hlasovalo proti a 4 členové se zdrželi hlasování. (Pro: Ing. Alena Burešová, Ing. et Ing. David Hubáček, Mgr. Petr Janouš, Bc. Pavel Novák, Ing. Pavel Vaic, Proti: David Brabec, Michal Bünter, Ing. Jan Bureš, Mgr. Karel Filip, Ing. Jiří Jurgovski, Vladimír Kozel, Ing. Martin Vondra, MBA, RNDr. Libuše Vosátková, Zdrželi se: Ing. Jan Bechyně, Bc. Kamil Černý, prof. RNDr. Zdeněk Doležal, Dr., Bc. Štěpán Polívka) Poté zastupitelstvo města přijalo U s n e s e n í č. 184 Zastupitelstvo města I. s o u h l a s í s uzavřením memoranda s Českými lupkovými závody, a.s. IČO: 264 23 367, se sídlem Pecínov 1171, 271 01 Nové Strašecí o spolupráci pro pokračování hornické činnosti, řešení dopravní situace a zrušení dobývacího prostoru Nové Strašecí II Text memoranda je přílohou tohoto usnesení. II. u k l á d á starostovi města memorandum o spolupráci podepsat Pro toto usnesení hlasovalo 12 členů zastupitelstva města, 2 členové hlasovali proti a 3 členové se zdrželi hlasování. "
+   },
+   "num": 16,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-16-zasedani-zastupitelstva-mesta-dne-1962025-6120cs.html",
+   "valid": true
+  },
+  {
+   "id": "cluz-zruseni",
+   "date": "2025-07-15",
+   "vi": 5,
+   "pol": "proti-tezbe",
+   "label": "Zrušení usnesení o memorandu ČLUZ a informování společnosti (NEPŘIJATO 7-6-3)",
+   "v": {
+    "i": 5,
+    "pos": 27901,
+    "pro": [
+     "Adelt Pavel",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Janouš Petr",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [
+     "Filip Karel",
+     "Vondra Martin",
+     "Polívka Štěpán",
+     "Bureš Jan",
+     "Vosátková Libuše",
+     "Doležal Zdeněk"
+    ],
+    "zdrzel": [
+     "Šnobl Karel",
+     "Bechyně Jan",
+     "Bouček Jiří"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 7,
+     "proti": 6,
+     "zdrzel": 3,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "te vy. Proč byste vy informovali Rynholec a proč by Rynholec informoval vás. Proto od začátku volám po koordinovaném postupu vůči velkému partnerovi. Neřekl jsem, že správní rada podmínila, to jsem neřekl, tedy žádné rozhodnutí správní rady v tomto duchu neexistuje. Univerzita má několik orgánů, které projednávají různé záležitosti a jak na senátu, tak na poradě vedení, tak na správní radě i na kolegiu rektora zazněla informace, že ČLUZ po nás požaduje nějaké pozemky a že my o nich nebudeme dále jednat bez toho, aniž by dotčené obce nám předložily explicitní doklad o tom, že souhlasí s těžbou. Druhá věc, která nezazněla a potřebuji ji vědět, pokud přijde na ČZU ČLUZ a přinese toto memorandum, je to souhlas zastupitelstva s těžbou, nebo není, je to relevantní. Kdybyste zde o tom nemluvili a ČLUZ přinesl memorandum, bral by to jako souhlas, ale protože zde opakovaně zaznívá, že to není závazné, tak potřebuje vědět jak je to doopravdy. Do rozpravy se dále zapojili: Ing. et Ing. David Hubáček, Ing. Jan Bechyně, JUDr. Jiří Tláskal – tajemník MěÚ, Bc. Pavel Novák. Poznámka: během rozpravy ve 20:40hod. odešel zastupitel p. David Brabec (přítomno 16 členů zastupitelstva města) Mgr. Jiří Verner po proběhlé rozpravě podal protinávrh, který původně podala Ing. Alena Burešová, kterým by zastupitelstvo města zrušilo usnesení č. 184 ze dne 19. června 2025, uložilo starostovi města svolat společné jednání zastupitelů Nového Strašecí za účelem dohody o úpravě memoranda se společností ČLUZ a dále uložilo starostovi města neprodleně informovat společnost ČLUZ o zrušení usnesení a schváleném postupu na uzavření memoranda. Poznámka: Mgr. Petr Janouš požádal o 5min. přestávku k naformulování protinávrhu, starosta města ve 21:00hod. vyhlásil 5min. přestávku. Technická poznámka Mgr. Jiřího Vernera – do návrhu usnesení byl přidán termín, a to nejpozději do 15. září (kdy by mělo být nejpozději svoláno jednání zastupitelů), neznamená to do 15. září se sejít. Poté bylo hlasováno o protinávrhu Mgr. Jiřího Vernera U s n e s e n í č. Zastupitelstvo města I. r u š í usnesení č. 184 ze dne 19. června 2025 II. u k l á d á starostovi města svolat společné jednání zastupitelů města Nové Strašecí za účelem dohody o úpravě memoranda se společností ČLUZ, a to nejpozději do 15. září 2025 III. u k l á d á starostovi města neprodleně informovat společnost ČLUZ o zrušení usnesení a o schváleném postupu Pro tento návrh hlasovalo 7 členů zastupitelstva města, 6 členů hlasovalo proti a 3 členové se zdrželi hlasování. Návrh nebyl přijat. "
+   },
+   "num": null,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-ze-17-zastupitelstva-mesta-ze-dne-1572025-6149cs.html",
+   "valid": true
+  },
+  {
+   "id": "cluz-rev",
+   "date": "2025-10-09",
+   "vi": 5,
+   "pol": "pro-tezbe",
+   "label": "Memorandum ČLUZ – zpráva výboru / potvrzení postupu (12-2-4)",
+   "v": {
+    "i": 5,
+    "pos": 16107,
+    "pro": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Vosátková Libuše",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří",
+     "Verner Jiří",
+     "Vaic Pavel"
+    ],
+    "proti": [
+     "Burešová Alena",
+     "Novák Pavel"
+    ],
+    "zdrzel": [
+     "Bechyně Jan",
+     "Adelt Pavel",
+     "Černý Kamil",
+     "Hubáček David"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 12,
+     "proti": 2,
+     "zdrzel": 4,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "egický výbor“), kde by mohly být tyto otázky prodiskutovány a nalezeno přijatelné řešení. Tento výbor je přirozeným a vhodným fórem pro otevřenou diskusi o strategických otázkách, které mají dlouhodobý dopad na rozvoj města a jeho vztahy s okolními obcemi. Věříme, že právě Strategický výbor je místem, kde můžeme vést věcnou, konstruktivní a kolektivní debatu bez zbytečných nedorozumění. Naším cílem není vytvářet duplicity či obcházet vedení města, ale naopak posílit spolupráci a zajistit, aby všichni zastupitelé měli stejnou a úplnou informaci. Jsme přesvědčeni, že pokud se k této věci postavíme společně a otevřeně, posílíme nejen naši vnitřní komunikaci, ale i důvěru občanů v práci zastupitelstva. Důvěra veřejnosti se buduje dlouhodobě a stojí na třech pilířích — transparentnosti, jednotném postupu a ochotě naslouchat. Pokud občané uvidí, že zastupitelé dokážou spolupracovat napříč názory, hledat shodu a jednat v zájmu města jako celku, posílí to jejich jistotu, že rozhodnutí, která činíme, jsou promyšlená, spravedlivá a v jejich prospěch. Takový přístup nejen zlepší atmosféru uvnitř zastupitelstva, ale také vytvoří pevný základ pro dlouhodobý rozvoj města a jeho dobré jméno navenek. Věříme, že společným jednáním na půdě Strategického výboru můžeme udělat důležitý krok tímto směrem. V souladu s jednacím řádem uvádíme, že ekonomický dopad je nulový. Do rozpravy se zapojili: Mgr. Karel Filip -starosta města, Bc. Pavel Novák, Mgr. Jiří Verner, Bc. Kamil Černý. Z přítomných občanů: Kevin Franc – místostarosta obce Rynholec. Poznámka: ve 20:05hod. starosta města vyhlásil přestávku. Po přestávce bylo pokračováno v rozpravě, do které se zapojili: Mgr. Karel Filip – starosta města, Bc. Pavel Novák, Bc. Kamil Černý, Bc. Karel Šnobl, Mgr. Jiří Verner, Ing. et Ing. David Hubáček, Ing. Jan Bureš – 1.místostarosta města, p. David Brabec, Z přítomných občanů: Ing. Michal Štiller, p. Jakub Houba, p. František Řezáč. Ing. Jan Bechyně požádal uvést do zápisu: „Pro úplnost důvodové zprávy by měli ještě kolegyně a kolegové doplnit, že díky aktivnímu jednání a argumentaci především rady města společnost ČLUZ již na červnovém zastupitelstvu města, kde bylo memorandum schváleno, přislíbila vybudování propojovací komunikace bez ohledu, zda bude těžba nebo nebude zahájena. Tedy, že rada města aktivně jednala ve prospěch svých občanů a jejich komfortu.“ p. David Brabec navrhl, aby byla ukončena rozprava k tomuto bodu. Pro tento návrh hlasovalo 12 členů zastupitelstva města, 2 členové hlasovali proti a 4 členové se zdrželi hlasování. "
+   },
+   "num": 18,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-18-zasedani-zastupitelstva-mesta-ze-dne-9102025-6270cs.html",
+   "valid": true
+  },
+  {
+   "id": "cluz-vybor",
+   "date": "2025-10-09",
+   "vi": 20,
+   "pol": "proti-tezbe",
+   "label": "Návrh uložit výboru pro strategický rozvoj zabývat se memorandem ČLUZ (NEPŘIJATO 8-0-11)",
+   "v": {
+    "i": 20,
+    "pos": 73141,
+    "pro": [
+     "Adelt Pavel",
+     "Burešová Alena",
+     "Novák Pavel",
+     "Verner Jiří",
+     "Černý Kamil",
+     "Janouš Petr",
+     "Hubáček David",
+     "Vaic Pavel"
+    ],
+    "proti": [],
+    "zdrzel": [
+     "Filip Karel",
+     "Šnobl Karel",
+     "Kozel Vladimír",
+     "Polívka Štěpán",
+     "Jurgovski Jiří",
+     "Bureš Jan",
+     "Bechyně Jan",
+     "Vosátková Libuše",
+     "Bünter Michal",
+     "Brabec David",
+     "Bouček Jiří"
+    ],
+    "nehlasoval": [],
+    "declared": {
+     "pro": 8,
+     "proti": 0,
+     "zdrzel": 11,
+     "nehlasoval": 0
+    },
+    "valid": true,
+    "ctx": "y výboru je logická dobrá spolupráce a komunikace s vedením města. Troufám si tvrdit, že spolupráce s vedoucí finančního odboru byla dobrá a oboustranně podnětná. Bohužel spolupráce a komunikace s vedením města nebyla delší dobu na dobré úrovni – to je můj názor. Ze své praxe jsem zvyklý na jiný, vyšší standart spolupráce a komunikace. Nerad bych se pouštěl do nějakého obviňování a rozebírání, kdo co řekl, udělal, nebo neudělal. To bych vnímal jako neprofesionální, to nepatří sem, ale na osobní jednání. Pokud však něco nefunguje, nemá v tom smysl pokračovat. Rozhodl jsem se tedy práci ve výboru ukončit a ještě jednou děkuji členům za jejich práci.“ Poté zastupitelstvo města přijalo U s n e s e n í č. 204 Zastupitelstvo města I. b e r e n a v ě d o m í rezignaci Ing. Pavla Adelta, MBA a Dr. Ing. Pavla Kotyka na členství ve finančním výboru zastupitelstva města k 30.9.2025 rezignaci Ing. Pavla Vaice na členství ve finančním výboru zastupitelstva města k 9.10.2025 II. v o l í Ing. et Ing. Davida Hubáčka za člena a zároveň předsedu finančního výboru zastupitelstva města. Pro toto usnesení hlasovalo 16 členů zastupitelstva města, 3 členové se zdrželi hlasování. (Pro: Ing. Pavel Adelt, MBA, Ing. Jan Bechyně, Mgr. Jiří Bouček, David Brabec, Ing. Jan Bureš, Ing. Alena Burešová, Bc. Kamil Černý, Mgr. Karel Filip, Mgr. Petr Janouš, Ing. Jiří Jurgovski, Vladimír Kozel, Bc. Pavel Novák, Bc. Štěpán Polívka, Ing. Pavel Vaic, Mgr. Jiří Verner, RNDr. Libuše Vosátková, Zdrželi se: Michal Bünter, Ing. et Ing. David Hubáček, Bc. Karel Šnobl) c) Rezignace členky výboru pro školství Starosta města informoval o rezignaci Evy Hrdličkové ke dni 30.9.2025 z členství ve výboru pro školství zastupitelstva města z důvodu pracovního vytížení. d) Memorandum o spolupráci se společností ČLUZ Ing. et Ing. David Hubáček navrhl, aby se opětovně hlasovalo o možnosti uložit výboru pro strategický rozvoj města zabývat se memorandem se společností ČLUZ. Z původního usnesení bylo záměrně vyškrtnuta úprava memoranda. Do rozpravy se zapojil: Bc. Kamil Černý. Poté bylo hlasováno o návrhu Ing. et Ing. Davida Hubáčka: U s n e s e n í č. Zastupitelstvo města u k l á d á Výboru pro strategický rozvoj města zabývat se memorandem se společností ČLUZ Pro tento návrh hlasovalo 8 členů zastupitelstva města, 11 členů se zdrželo hlasování. Návrh nebyl přijat. "
+   },
+   "num": 18,
+   "url": "https://www.novestraseci.cz/samosprava/zapisy-a-videozaznamy-ze-zastupitelstva/zapis-a-videozaznam-z-18-zasedani-zastupitelstva-mesta-ze-dne-9102025-6270cs.html",
+   "valid": true
+  }
+ ]
+}
